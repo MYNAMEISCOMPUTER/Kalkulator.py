@@ -28,3 +28,5 @@ else:
 print(f'{bilangan1} adalah:', type(bilangan1))
 print(f'{bilangan2} adalah:', type(bilangan2))
 print(f'{hasil} adalah:', type(hasil))
+
+print('Y')
