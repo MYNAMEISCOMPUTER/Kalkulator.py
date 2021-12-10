@@ -30,3 +30,4 @@ print(f'{bilangan2} adalah:', type(bilangan2))
 print(f'{hasil} adalah:', type(hasil))
 
 print('Y')
+print('N')
